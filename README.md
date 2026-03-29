@@ -6,9 +6,20 @@ Full Stack Developer — construyendo herramientas de desarrollo y plataformas d
 
 ### Stack
 
-**Backend:** Python · Django · FastAPI · Node.js · Express · Rust
-**Frontend:** React · Vue 3 · React Native · Tailwind CSS
-**Infra:** Docker · Linux · Tauri · Vite
+**Backend**
+Python · Django · FastAPI · Node.js · Express · Rust · REST APIs
+
+**Frontend**
+React · Vue 3 · React Native · TypeScript · Tailwind CSS · HTML · CSS
+
+**Bases de datos**
+PostgreSQL · MySQL · SQLite · MongoDB · Redis
+
+**Infra & DevOps**
+Docker · Linux · Tauri · Vite · Git · GitHub Actions · Nginx
+
+**Herramientas**
+VS Code · Postman · Figma · Jira
 
 ### Proyectos
 
