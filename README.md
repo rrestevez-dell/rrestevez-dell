@@ -35,5 +35,5 @@ VS Code · Postman · Figma · Jira
 
 ---
 
-[Deli Technology](https://github.com/delixon-technology) · Todo lo que construyo vive ahí.
+[Delixon Technology](https://github.com/delixon-technology) · Todo lo que construyo vive ahí.
 
