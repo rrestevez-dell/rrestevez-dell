@@ -1,4 +1,4 @@
-## delirestevez
+## delirrestevez
 
 Founder @ **[Deli Technology](https://github.com/deli-technology)**
 
@@ -23,7 +23,7 @@ VS Code · Postman · Figma · Jira
 
 ### Proyectos
 
-**[Delixon](https://github.com/deli-technology/delixon)** — Gestor de workspaces para desarrolladores. Desktop app multiplataforma con Tauri 2, React 19 y Rust. Proyecto propio bajo Deli Technology.
+**[Delixon](https://github.com/delixon-technology/delixon)** — Gestor de workspaces para desarrolladores. Desktop app multiplataforma con Tauri 2, React 19 y Rust. Proyecto propio bajo Deli Technology.
 
 **MuayTax** — Plataforma de gestión fiscal y contable. Mi trabajo principal a tiempo completo, donde desarrollo y mantengo la aplicación como parte del equipo core de desarrollo.
 
@@ -35,5 +35,5 @@ VS Code · Postman · Figma · Jira
 
 ---
 
-[Deli Technology](https://github.com/deli-technology) · Todo lo que construyo vive ahí.
+[Deli Technology](https://github.com/delixon-technology) · Todo lo que construyo vive ahí.
 
