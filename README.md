@@ -1,6 +1,6 @@
 ## delirrestevez
 
-Founder @ **[Deli Technology](https://github.com/deli-technology)**
+Founder @ **[Delixon Technology](https://github.com/deli-technology)**
 
 Full Stack Developer — construyendo herramientas de desarrollo y plataformas de software.
 
