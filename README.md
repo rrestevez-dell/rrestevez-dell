@@ -1,39 +1,51 @@
 ## delirrestevez
 
-Founder @ **[Delixon Technology](https://github.com/deli-technology)**
+Founder @ **[Delixon Technology](https://github.com/delixon-technology)**
 
-Full Stack Developer — construyendo herramientas de desarrollo y plataformas de software.
+Desarrollo software de principio a fin. Desde backends y APIs hasta frontends, apps de escritorio y plataformas completas. Arquitectura, infra, deploy y producto.
 
 ### Stack
 
 **Backend**
-Python · Django · FastAPI · Node.js · Express · Rust · REST APIs
+Python · Django · Django REST Framework · FastAPI · Node.js · Rust · Celery · JWT · OAuth
 
 **Frontend**
-React · Vue 3 · React Native · TypeScript · Tailwind CSS · HTML · CSS
+Vue 3 (Composition API) · Nuxt 4 · React · TypeScript · Pinia · Vite · CSS · Sass
+
+**Desktop**
+Tauri 2 · Rust · Cross-platform (Windows, macOS, Linux)
 
 **Bases de datos**
-PostgreSQL · MySQL · SQLite · MongoDB · Redis
+PostgreSQL · SQLite · Redis
 
-**Infra & DevOps**
-Docker · Linux · Tauri · Vite · Git · GitHub Actions · Nginx
+**Infraestructura**
+Docker · Linux · Nginx · GitHub Actions · Cloudflare · Hetzner · AWS
+
+**Testing**
+pytest · pytest-django · Vitest
 
 **Herramientas**
-VS Code · Postman · Figma · Jira
+VS Code · Git · Postman · Figma
 
 ### Proyectos
 
-**[Delixon](https://github.com/delixon-technology/delixon)** — Gestor de workspaces para desarrolladores. Desktop app multiplataforma con Tauri 2, React 19 y Rust. Proyecto propio bajo Deli Technology.
+**[Delixon](https://github.com/delixon-technology/delixon)**
+Gestor de workspaces para desarrolladores. Aisla entornos, versiones y variables por proyecto. App de escritorio multiplataforma construida con Tauri 2, React 19 y Rust. Distribucion via npm. Licencia source-available (FSL-1.1-ALv2) respaldada por Xplus Technology LLC.
 
-**MuayTax** — Plataforma de gestión fiscal y contable. Mi trabajo principal a tiempo completo, donde desarrollo y mantengo la aplicación como parte del equipo core de desarrollo.
+**[Delixon Platform](https://github.com/delixon-technology/delixon-platform)**
+Plataforma central de Delixon Technology. Backend Django con API REST, panel interno en Vue 3, web publica en Nuxt 4 con SSR. Incluye sistema de autenticacion (sesiones + JWT), blog, tienda con licencias, foro comunitario y waitlist con referidos. PWA habilitado. CI/CD con GitHub Actions, deploy automatico en Hetzner.
 
 ### Colaboraciones
 
-**[Xplus Finance](https://github.com/xplus-finance)** — Plataforma fintech cofundada junto a [@mundowise](https://github.com/mundowise). Participo como colaborador principal y co-owner, contribuyendo activamente en arquitectura y desarrollo desde los inicios del proyecto.
+**[MuayTax](https://github.com/muaytaxdev/muay-tapp)** — [Muay Tax Advisors SL](https://muaytax.com) · [App](https://app.muaytax.com)
+Plataforma de gestion fiscal y contable internacional. Mi trabajo principal a tiempo completo donde desarrollo y mantengo la aplicacion como parte del equipo core. Stack: Django, React, PostgreSQL, Docker.
 
-**[Xplus Technologies LLC](https://github.com/Xplus-Technologies-LLC)** — Empresa tecnológica de [@mundowise](https://github.com/mundowise). Colaborador freelance activo en múltiples repositorios, involucrado en el desarrollo de productos y soluciones técnicas de la compañía.
+**[Xplus Finance](https://github.com/xplus-finance)**
+Plataforma fintech cofundada junto a [@mundowise](https://github.com/mundowise). Co-owner y colaborador principal en arquitectura y desarrollo.
+
+**[Xplus Technology LLC](https://github.com/Xplus-Technologies-LLC)**
+Empresa tecnologica de [@mundowise](https://github.com/mundowise). Colaborador activo en desarrollo de productos. Entidad legal que respalda la licencia de Delixon.
 
 ---
 
-[Delixon Technology](https://github.com/delixon-technology) · Todo lo que construyo vive ahí.
-
+[Delixon Technology](https://github.com/delixon-technology) · [delixon.dev](https://delixon.dev)
