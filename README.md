@@ -2,39 +2,39 @@
 
 **CTO, XPlus Technologies LLC · Founder, Delixon Labs**
 
-Desarrollo software de principio a fin. Desde backends y APIs hasta frontends, apps de escritorio y plataformas completas. Arquitectura, infra, deploy y producto.
+I build software end to end. From backends and APIs to frontends, desktop apps and full platforms. Architecture, infra, deploy and product.
 
 ---
 
 ## Stack
 
-| Area | Tecnologias |
+| Area | Technologies |
 |------|-------------|
 | Backend | Python · Django · Django REST Framework · FastAPI · Node.js · Rust · Celery |
 | Frontend | Vue 3 (Composition API) · Nuxt 4 · React · TypeScript · Pinia · Vite |
 | Desktop | Tauri 2 · Rust · Cross-platform (Windows, macOS, Linux) |
-| Bases de datos | PostgreSQL · SQLite · Redis |
-| Infraestructura | Docker · Linux · Nginx · GitHub Actions · Cloudflare · Hetzner · AWS |
+| Databases | PostgreSQL · SQLite · Redis |
+| Infrastructure | Docker · Linux · Nginx · GitHub Actions · Cloudflare · Hetzner · AWS |
 | Testing | pytest · pytest-django · Vitest |
-| Herramientas | VS Code · Git · Postman · Figma |
+| Tools | VS Code · Git · Postman · Figma |
 
 ---
 
-## Proyectos
+## Projects
 
-**[Nexenv](https://delixon.dev/nexenv)** — Gestor de workspaces para desarrolladores. Aisla entornos, versiones y variables por proyecto. App de escritorio multiplataforma construida con Tauri 2, React 19 y Rust. Distribucion via npm. Licencia source-available (FSL-1.1-ALv2).
+**[Nexenv](https://delixon.dev/nexenv)** — Workspace manager for developers. Isolates environments, versions and variables per project. Cross-platform desktop app built with Tauri 2, React 19 and Rust. Distributed via npm. Source-available license (FSL-1.1-ALv2).
 
-**[Delixon Platform](https://delixon.dev)** — Plataforma central de Delixon Labs. Backend Django con API REST, panel interno en Vue 3, web publica en Nuxt 4 con SSR. Sistema de autenticacion, blog, tienda con licencias, foro y waitlist. PWA. CI/CD con GitHub Actions, deploy en Hetzner.
+**[Delixon Platform](https://delixon.dev)** — Core platform for Delixon Labs. Django backend with REST API, internal panel in Vue 3, public website in Nuxt 4 with SSR. Auth system, blog, license store, forum and waitlist. PWA. CI/CD with GitHub Actions, deployed on Hetzner.
 
 ---
 
-## Colaboraciones
+## Collaborations
 
-**MuayTax** — Muay Tax Advisors SL · Plataforma de gestion fiscal y contable internacional. Desarrollo y mantenimiento como parte del equipo core. Stack: Django, React, PostgreSQL, Docker.
+**MuayTax** — Muay Tax Advisors SL · International tax and accounting management platform. Development and maintenance as part of the core team. Stack: Django, React, PostgreSQL, Docker.
 
-**XPlus Finance** — Plataforma fintech cofundada junto a [@mundowise](https://github.com/mundowise). Co-owner y colaborador principal en arquitectura y desarrollo.
+**XPlus Finance** — Fintech platform co-founded with [@mundowise](https://github.com/mundowise). Co-owner and lead contributor in architecture and development.
 
-**[XPlus Technologies LLC](https://xplustechnologies.com)** — Empresa tecnologica de [@mundowise](https://github.com/mundowise). Entidad legal que respalda Delixon Labs y sus productos.
+**[XPlus Technologies LLC](https://xplustechnologies.com)** — Tech company by [@mundowise](https://github.com/mundowise). Legal entity backing Delixon Labs and its products.
 
 ---
 
