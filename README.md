@@ -30,11 +30,14 @@ I build software end to end. From backends and APIs to frontends, desktop apps a
 
 ## Collaborations
 
-**MuayTax** — Muay Tax Advisors SL · International tax and accounting management platform. Development and maintenance as part of the core team. Stack: Django, React, PostgreSQL, Docker.
+**[XPlus Technologies LLC](https://xplustechnologies.com)** — Tech company by [@mundowise](https://github.com/mundowise). CTO and lead developer across all XPlus products and platforms.
 
-**XPlus Finance** — Fintech platform co-founded with [@mundowise](https://github.com/mundowise). Co-owner and lead contributor in architecture and development.
+- **[XPlus Finance](https://github.com/xplus-finance)** — Fintech platform. Co-owner, architecture and development.
+- **[NexusLens](https://github.com/mundowise/nexuslens-backend)** — Code analysis and visualization. [Backend](https://github.com/mundowise/nexuslens-backend) + [Frontend](https://github.com/mundowise/nexuslens-frontend).
+- **[Stackweld](https://github.com/mundowise/Stackweld)** — Stack detection and project scaffolding toolkit.
+- **[Cybersecurity Toolkit](https://github.com/mundowise/cybersecurity-toolkit)** — Security auditing and penetration testing utilities.
 
-**[XPlus Technologies LLC](https://xplustechnologies.com)** — Tech company by [@mundowise](https://github.com/mundowise). Legal entity backing Delixon Labs and its products.
+**[MuayTax](https://github.com/muaytaxdev/muay-tapp)** — Muay Tax Advisors SL · International tax and accounting management platform. Development and maintenance as part of the core team. Stack: Django, React, PostgreSQL, Docker.
 
 ---
 
