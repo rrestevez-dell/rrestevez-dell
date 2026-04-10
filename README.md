@@ -10,7 +10,7 @@ I build software end to end. From backends and APIs to frontends, desktop apps a
 
 | Area | Technologies |
 |------|-------------|
-| Backend | Python · Django · Django REST Framework · FastAPI · Node.js · Express · Rust · Celery|
+| Backend | Python · Django · Django REST Framework · FastAPI · Node.js · Express · Rust · Celery |
 | Frontend | Vue 3 (Composition API) · Nuxt 4 · React · TypeScript · Pinia · Vite |
 | Desktop | Tauri 2 · Rust · Cross-platform (Windows, macOS, Linux) |
 | Databases | PostgreSQL · SQLite · Redis |
@@ -26,19 +26,26 @@ I build software end to end. From backends and APIs to frontends, desktop apps a
 
 **[Delixon Platform](https://delixon.dev)** — Core platform for Delixon Labs. Django backend with REST API, internal panel in Vue 3, public website in Nuxt 4 with SSR. Auth system, blog, license store, forum and waitlist. PWA. CI/CD with GitHub Actions, deployed on Hetzner.
 
+**[ContractSandbox](https://github.com/Xplus-Technologies-LLC/ContractSandbox)** — Smart contract testing and simulation environment. Part of the Delixon Labs division under XPlus Technologies.
+
+**[PrismGraph](https://github.com/Xplus-Technologies-LLC/PrismGraph)** — Graph-based data visualization and analysis tool. Part of the Delixon Labs division under XPlus Technologies.
+
 ---
 
-## Collaborations
+## XPlus Technologies LLC
 
 **[XPlus Technologies LLC](https://xplustechnologies.com)** — Tech company by [@mundowise](https://github.com/mundowise). CTO and lead developer across all XPlus products and platforms.
 
-- **[XPlus Finance](https://xplusfinance.org)** — Fintech platform. Co-owner, architecture and development. [Web](https://xplusfinance.org) · [App](https://app.xplusfinance.org)
+- **[XPlus Finance](https://xplusfinance.org)** — Fintech platform. Co-owner, architecture and development. Backend: Django, Express. [Web](https://xplusfinance.org) · [App](https://app.xplusfinance.org)
 - **[NexusLens](https://github.com/mundowise/nexuslens-backend)** — Code analysis and visualization. [Backend](https://github.com/mundowise/nexuslens-backend) + [Frontend](https://github.com/mundowise/nexuslens-frontend).
-- **[Stackweld](https://github.com/mundowise/Stackweld)** — Stack detection and project scaffolding toolkit.
-- **[Cybersecurity Toolkit](https://github.com/mundowise/cybersecurity-toolkit)** — Security auditing and penetration testing utilities.
-
-**[MuayTax](https://github.com/muaytaxdev/muay-tapp)** — Muay Tax Advisors SL · International tax and accounting management platform. Development and maintenance as part of the core team. Stack: Django, React, PostgreSQL, Docker.
+- **[Cybersecurity Toolkit](https://github.com/mundowise/cybersecurity-toolkit)** — Security auditing and penetration testing utilities. Part of the XPlus cybersecurity division.
 
 ---
 
-*Delixon Labs · [delixon.dev](https://delixon.dev)*
+## MuayTax
+
+**[MuayTax](https://github.com/muaytaxdev/muay-tapp)** — My full-time role since April 2025. International tax and accounting management platform for Muay Tax Advisors SL. Lead developer building and maintaining the core application. Stack: Django, React, PostgreSQL, Docker.
+
+---
+
+*Delixon Labs · [delixon.dev](https://delixon.dev) · [XPlus Technologies LLC](https://github.com/Xplus-Technologies-LLC)*
