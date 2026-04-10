@@ -10,7 +10,7 @@ I build software end to end. From backends and APIs to frontends, desktop apps a
 
 | Area | Technologies |
 |------|-------------|
-| Backend | Python · Django · Django REST Framework · FastAPI · Node.js · Rust · Celery |
+| Backend | Python · Django · Django REST Framework · FastAPI · Node.js · Express · Rust · Celery|
 | Frontend | Vue 3 (Composition API) · Nuxt 4 · React · TypeScript · Pinia · Vite |
 | Desktop | Tauri 2 · Rust · Cross-platform (Windows, macOS, Linux) |
 | Databases | PostgreSQL · SQLite · Redis |
@@ -32,7 +32,7 @@ I build software end to end. From backends and APIs to frontends, desktop apps a
 
 **[XPlus Technologies LLC](https://xplustechnologies.com)** — Tech company by [@mundowise](https://github.com/mundowise). CTO and lead developer across all XPlus products and platforms.
 
-- **[XPlus Finance](https://github.com/xplus-finance)** — Fintech platform. Co-owner, architecture and development.
+- **[XPlus Finance](https://xplusfinance.org)** — Fintech platform. Co-owner, architecture and development. [Web](https://xplusfinance.org) · [App](https://app.xplusfinance.org)
 - **[NexusLens](https://github.com/mundowise/nexuslens-backend)** — Code analysis and visualization. [Backend](https://github.com/mundowise/nexuslens-backend) + [Frontend](https://github.com/mundowise/nexuslens-frontend).
 - **[Stackweld](https://github.com/mundowise/Stackweld)** — Stack detection and project scaffolding toolkit.
 - **[Cybersecurity Toolkit](https://github.com/mundowise/cybersecurity-toolkit)** — Security auditing and penetration testing utilities.
