@@ -44,7 +44,7 @@ I build software end to end. From backends and APIs to frontends, desktop apps a
 
 ## MuayTax
 
-**[MuayTax](https://github.com/muaytaxdev/muay-tapp)** — My full-time role since April 2025. International tax and accounting management platform for Muay Tax Advisors SL. Lead developer building and maintaining the core application. Stack: Django, React, PostgreSQL, Docker.
+**[MuayTax](https://github.com/muaytaxdev/muay-tapp)** — My full-time role at Muay Tax Advisors, SL. International tax and accounting management platform where I drive the development and maintenance of core application features, internal tools, APIs, frontend interfaces, and complex business workflows across the product. Stack: Django, Django REST Framework, HTMX, Vue.js, JavaScript, CSS, Bootstrap, DataTables, PostgreSQL, Docker.
 
 ---
 
