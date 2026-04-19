@@ -1,6 +1,6 @@
 # Raydel Rodriguez Estevez
 
-**CTO, XPlus Technologies LLC · Founder, Delixon Labs**
+**CEO, XPlus Technologies LLC · Founder, Delixon Labs**
 
 I build software end to end. From backends and APIs to frontends, desktop apps and full platforms. Architecture, infra, deploy and product.
 
@@ -34,7 +34,7 @@ I build software end to end. From backends and APIs to frontends, desktop apps a
 
 ## XPlus Technologies LLC
 
-**[XPlus Technologies LLC](https://xplustechnologies.com)** — Tech company by [@mundowise](https://github.com/mundowise). CTO and lead developer across all XPlus products and platforms.
+**[XPlus Technologies LLC](https://xplustechnologies.com)** — Tech company by [@mundowise](https://github.com/mundowise). CEO and lead developer across all XPlus products and platforms.
 
 - **[XPlus Finance](https://xplusfinance.org)** — Fintech platform. Co-owner, architecture and development. Backend: Django, Express. [Web](https://xplusfinance.org) · [App](https://app.xplusfinance.org)
 - **[NexusLens](https://github.com/mundowise/nexuslens-backend)** — Code analysis and visualization. [Backend](https://github.com/mundowise/nexuslens-backend) + [Frontend](https://github.com/mundowise/nexuslens-frontend).
